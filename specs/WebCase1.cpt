@@ -1,0 +1,37 @@
+# Satılık İkonuna Basılır
+* Satılık İkonuna Tıklanır
+
+# İl Seçimi İzmir Yapılır
+* Cookie Kapatılır
+* Konum Kısmındaki İl Seçiniz Kutucuğuna Basılır
+* İzmir Seçilir
+
+# İlçe Seçimi Bornova Yapılır
+* Konum Kısmındaki İlçe Seçiniz Kutucuğuna Basılır
+* Bornova Seçilir
+* Fiyat Textine Tıklanır
+
+# Kategori Seçimi İşyeri Yapılır
+* Kategori İşyeri Seçilir
+* 5 Saniye Beklenir
+
+# Minimum - Maximum Fiyat Değerleri Girilir (100.000 - 2.000.000)
+* Minimum fiyat "100000" olarak girilir
+* 2 Saniye Beklenir
+* Maximum fiyat "2000000" olarak girilir
+
+# Bina Yaşı Seçilir (Sıfır Bina, 1-5, 6-10)
+* 'Bina Yaşı Seçiniz' Kutucuğuna Tıklanır
+* Sıfır Bina Seçilir
+* 1-5 Yaşında Bina Seçilir
+* 6-10 Yaşında Bina Seçilir
+
+# Tagler Kontrol Edilir
+* 3 Saniye Beklenir
+* Taglerde İlin İzmir Olduğu Kontrolu Yapılır
+* Taglerde İlçenin Bornova Olduğu Kontrolu Yapılır
+* Taglerde Kategorinin İşyeri Olduğu Kontrolu Yapılır
+* Taglerde Fiyatın 100.000 TL - 2.000.000 TL Olduğu Kontrolu Yapılır
+* Taglerde Bina Yaşının Sıfır Bina Olduğu Kontrolu Yapılır
+* Taglerde Bina Yaşının 1-5 Olduğu Kontrolu Yapılır
+* Taglerde Bina Yaşının 6-10 Olduğu Kontrolu Yapılır

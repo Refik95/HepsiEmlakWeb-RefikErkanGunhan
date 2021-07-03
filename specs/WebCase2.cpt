@@ -1,0 +1,30 @@
+# Kiralık İkonuna Basılır
+* Kiralık İkonuna Tıklanır
+
+# İl Seçimi Ankara Yapılır
+* Cookie Tekrar Kapatılır
+* Konum Kısmındaki İl Seçiniz Kutucuğuna Basılır2
+* İl Ankara Seçilir
+
+# İlçe Seçimi Çankaya Yapılır
+* Konum Kısmındaki İlçe Seçiniz Kutucuğuna Basılır2
+* İlçe Çankaya Seçilir
+* Fiyat Textine Tıklanır2
+
+# Oda Sayısı Seçimi 2+1 Yapılır
+* Oda Seçiniz Kutucuğuna Tıklanır
+* Oda Seçiniz Kutucuğunda 2+1 Seçilir
+
+# Site İçerisinde Seçeneği Evet Olarak İşaretlenir
+* Site İçerisinde Kutucuğu Evet Olarak İşaretlenir
+
+# Kriterlere Göre Arama Butonuna Basılır
+* Kırmızı Ara Butonuna Tıklanır
+* İki Saniye Beklenir
+
+# Listelemede 3. İlana Tıklanır
+* Arama Listesindeki 3. İlan Seçilir
+
+# Telefon Numarasını Göster Kutucuğuna Tıklanır Ve Numaranın Gerçekliği Sorgulanır
+* Telefon Numarasını Göster Kutucuğuna Tıklanır
+* Telefon Numarasının Gerçekliği Kontrol Edilir
