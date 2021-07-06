@@ -81,8 +81,8 @@ public class WebCase2 extends Base {
 
     @Step({"Telefon Numarasının Gerçekliği Kontrol Edilir"})
     public void checkIfPhoneNumberIsValid() {
-        String ActualTitle = driver.findElement(By.cssSelector("section[class='det-block'] div[class='owner-phone-numbers-list-wrapper'] a[href='tel:+905527608881']")).getText();
-        String ExpectedTitle = "0552 760 88 81";
+        String ActualTitle = driver.findElement(By.cssSelector("section[class='det-block'] div[class='owner-phone-numbers-list-wrapper'] a[href='tel:+905323638378']")).getText();
+        String ExpectedTitle = "0532 363 83 78";
         Assert.assertEquals(ActualTitle, ExpectedTitle);
     }
 }

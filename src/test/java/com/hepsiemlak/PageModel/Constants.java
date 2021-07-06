@@ -33,7 +33,7 @@ public class Constants {
    public static final By SELECT_IKI_ARTI_BIR = By.xpath("//label[@class='md-checkbox']//span[contains(text(),'2+1')]");
    public static final By SELECT_SITEICINDE = By.cssSelector("section[class='filter-switch withinSiteSec'] input");
    public static final By ARA_BUTTON = By.xpath("//a[@class='btn btn-red btn-large']");
-   public static final By CLICK_THIRD_LISTING = By.xpath("//a[@href='/ankara-cankaya-alacaatli-kiralik/daire/51337-510']");
+   public static final By CLICK_THIRD_LISTING = By.xpath("//div[@id='3298-1930']");
    public static final By CLICK_SHOW_PHONE_NUMBER = By.xpath("//span[contains(text(),'Telefon Numarasını Göster')]");
 
 }
